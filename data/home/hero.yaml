@@ -1,0 +1,16 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Sistemas para **Gestão de Electrobombas**"
+  text: "Garanta eficiência e confiança, com as nossas soluções de gestão de electrobombas,
+  assegure o funcionamento contínuo e sem falhas dos seus equipamentos."
+
+  buttonPrimary:
+    label: "Mais Detalhes"
+    url: "#"
+
+  buttonSecondary:
+    label: "Encomenda já"
+    url: ""
+

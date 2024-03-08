@@ -1,0 +1,75 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "pt-PT"
+
+title: "NUAL"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "NUAL"
+  description: A nossa missão é simplificar e optimizar a gestão de electrobombas, oferecendo aos 
+    nossos clientes soluções completas e fáceis de usar. Ajudamos os nossos clientes a reduzir custos, 
+    aumentar a eficiência e garantir a segurança dos seus sistemas de bombagem.
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: #94fa69
+    backgroundColor: #94fa69
+    faviconColor: #94fa69
+
+  # social:
+  #   dribbble: "#"
+  #   instagram: "#"
+  #   facebook: "#"
+  #   twitter: "#"
+
+  location:
+    - Santo Tirso, Porto, Portugal
+
+  contact:
+    - "info@nual.pt"
+
+  copyright: "© 2024 NUAL All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Produtos"
+      url: "/blog"
+      weight: 3
+
+  buttons:
+    - name: "Contacte-nos"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 3
+
+taxonomies:
+  series: "series"
+  tags: "tags"

@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Não perca esta oportunidade!"
+  image: "images/services-web-development.png"
+  button:
+    label: "Contacte-nos"
+    url: "#"

@@ -1,0 +1,32 @@
+enabled: true
+id: "services"
+
+content:
+  title: Vantagens do Produto
+  text: Relé TPM7 em relação aos restantes
+
+  cards:
+    - image: images/service/cal.png
+      title: Calibração Automática
+      text: Garante a precisão e fiabilidade dos seus instrumentos de medição de forma fácil e rápida.
+
+    - image: images/service/prot.png
+      title: Dupla Proteção   
+      text: Proteção contra frequência excessiva de arranques e proteção contra falta de fase, somente em bombas trifásicas.
+
+    - image: images/service/remote.png
+      title: Monitorização Remota
+      text: Possibilidade de ligação com o módulo WIFI, TPUMP-W, para monitorização remota da bomba através de APP.
+
+    - image: images/service/block.png
+      title: Sistema Anti Bloqueio
+      text: A cada 23 horas, a unidade ativa a bomba por 1 segundo, para evitar bloqueio em bombas inativas por largos períodos de tempo.
+    
+    - image: images/service/intel.png
+      title: Monitorização Inteligente
+      text: Se for detetado um consumo extremamente baixo, a unidade automaticamente interrompe a operação em execução.
+
+    - image: images/service/flex.png
+      title: Flexibilidade e Controlo Total
+      text: Possibilidade de seleção do modo de funcionamento (Manual ou Automático) na própria unidade.
+

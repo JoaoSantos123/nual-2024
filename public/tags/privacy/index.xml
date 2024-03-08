@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on NUAL</title>
+    <link>http://localhost:1313/tags/privacy/</link>
+    <description>Recent content in Privacy on NUAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-PT</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIGIWATER DWM12</title>
+      <link>http://localhost:1313/post/digiwater_dwm12/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/digiwater_dwm12/</guid>
+      <description>Características: Caixa de plástico ABS 250x200x140mm com tampa transparente Disjuntor 2P C16 EFAPEL Contactor Soflight 3P 230Vac Relé digital TPM7 Toscano Seletor Manual-0-Automático com retorno na posição &amp;ldquo;Manual&amp;rdquo; Opção de calibração automática Possibilidade de funcionamento com sondas Possibilidade de conexão de módulo WIFI TPUMP-W (opcional) Sinalização do estado de funcionamento da bomba Proteções: Curto-circuito Sobrecarga Baixa carga Frequência excessiva de arranques Anti Bloqueio Consumo anormal Sobretensão Conexões: Alimentação de entrada: N/L Condensador (opcional): Cu/C Saída para bomba: (C)/U/V Comando de segurança: S1/S2 (fazer shunt caso não seja utilizado) Pressostato/bóia: S3/S4 Descrição de Funcionamento: Após realizar todas as ligações ao quadro e com o disjuntor ligado, o relé mostrará &amp;ldquo;OFF&amp;rdquo; no visor.</description>
+    </item>
+  </channel>
+</rss>
