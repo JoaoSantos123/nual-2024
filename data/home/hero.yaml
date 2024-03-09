@@ -7,10 +7,10 @@ content:
   assegure o funcionamento contínuo e sem falhas dos seus equipamentos."
 
   buttonPrimary:
-    label: "Mais Detalhes"
+    label: "Entre em contacto"
     url: "#"
 
-  buttonSecondary:
-    label: "Encomenda já"
-    url: ""
+  # buttonSecondary:
+  #   label: "Encomenda já"
+  #   url: ""
 

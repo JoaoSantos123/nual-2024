@@ -14,7 +14,8 @@ params:
     nossos clientes soluções completas e fáceis de usar. Ajudamos os nossos clientes a reduzir custos, 
     aumentar a eficiência e garantir a segurança dos seus sistemas de bombagem.
   images: 
-    - "images/hero-image.png"
+    - "images/digi_water.png"
+    - "images/hero-bg.jpg"
 
   logo: "arrow-up.png"
 

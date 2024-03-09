@@ -9,7 +9,7 @@ content:
       
     buttons: 
       - label: Mais Detalhes
-        url: "/posts/"
+        url: "/post/digiwater_dwm12/"
 
   # - image: "images/portfolio-ecommerce.png"
   #   pretitle: "Portfolio Service"
