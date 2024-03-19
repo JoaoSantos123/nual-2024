@@ -10,8 +10,7 @@ summaryLength: 20
 
 params:
   title: "NUAL"
-  description: A nossa missão é simplificar e optimizar a gestão de electrobombas, oferecendo aos 
-    nossos clientes soluções completas e fáceis de usar. Ajudamos os nossos clientes a reduzir custos, 
+  description: Ajudamos os nossos clientes a reduzir custos, 
     aumentar a eficiência e garantir a segurança dos seus sistemas de bombagem.
   images: 
     - "images/digi_water.png"
@@ -33,8 +32,7 @@ params:
   location:
     - Santo Tirso, Porto, Portugal
 
-  contact:
-    - "info@nual.pt"
+  contact: "info@nual.pt"
 
   copyright: "© 2024 NUAL All Rights Reserved"
 
@@ -44,7 +42,7 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "Sobre nós"
       url: "/#"
       weight: 2
 
@@ -60,14 +58,14 @@ menus:
 
   footer:
     - name: "Home"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
-    - name: "How we work"
+    - name: "Sobre nós"
       url: "/#"
       weight: 2
 
-    - name: "Blog"
+    - name: "Produtos"
       url: "/blog"
       weight: 3
 

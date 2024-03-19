@@ -8,7 +8,7 @@ content:
   cards:
     - image: images/service/cal.png
       title: Calibração Automática
-      text: Garante a precisão e fiabilidade dos seus instrumentos de medição de forma fácil e rápida.
+      text: Garante a precisão e fiabilidade de todos os seus instrumentos de medição de forma fácil, rápida e simples.
 
     - image: images/service/prot.png
       title: Dupla Proteção   
@@ -28,5 +28,5 @@ content:
 
     - image: images/service/flex.png
       title: Flexibilidade e Controlo Total
-      text: Possibilidade de seleção do modo de funcionamento (Manual ou Automático) na própria unidade.
+      text: Possibilidade de seleção do modo de funcionamento entre o modo Manual ou Automático na própria unidade.
 

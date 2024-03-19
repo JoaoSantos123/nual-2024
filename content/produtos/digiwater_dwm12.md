@@ -1,9 +1,24 @@
 ---
 title:  DIGIWATER DWM12
 date: 2019-03-10
-description: Monitorização Digital de Eletrobomba.
-tags: ["shortcodes","privacy"]
+description: Nível Digitais 
+description1: Teste 
+tags: ["Monofásico","Nível Digitais"]
+thumbnail: images/digi_water.png
+table:
+  - title: Modelo
+    description: Nível Digitais 
+  - title: Tipo
+    description: Monofásico
+  - title: Variações
+    description: 230VAC 0,1A - 12A
 ---
+
+Modelo: Nível Digitais 
+Tipo: Monofásico
+Variações: 230VAC 0,1A - 12A
+
+
 
 ## Características:
 

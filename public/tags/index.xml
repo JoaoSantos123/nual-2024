@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Discontactor</title>
+      <link>http://localhost:1313/tags/discontactor/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/discontactor/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Index</title>
       <link>http://localhost:1313/tags/index/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
@@ -16,17 +23,31 @@
       <description></description>
     </item>
     <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <title>Monofásico</title>
+      <link>http://localhost:1313/tags/monof%C3%A1sico/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/monof%C3%A1sico/</guid>
       <description></description>
     </item>
     <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
+      <title>Nível Digitais</title>
+      <link>http://localhost:1313/tags/n%C3%ADvel-digitais/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/tags/n%C3%ADvel-digitais/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nível Sondas</title>
+      <link>http://localhost:1313/tags/n%C3%ADvel-sondas/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/n%C3%ADvel-sondas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trifásico</title>
+      <link>http://localhost:1313/tags/trif%C3%A1sico/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trif%C3%A1sico/</guid>
       <description></description>
     </item>
   </channel>
