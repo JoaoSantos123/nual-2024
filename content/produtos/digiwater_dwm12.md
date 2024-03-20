@@ -4,7 +4,8 @@ date: 2019-03-10
 description: Nível Digitais 
 description1: Teste 
 tags: ["Monofásico","Nível Digitais"]
-thumbnail: images/digi_water.png
+thumbnail: images/digi_water1.png
+thumbnail1: images/digi_water2.png
 table:
   - title: Modelo
     description: Nível Digitais 
@@ -13,12 +14,6 @@ table:
   - title: Variações
     description: 230VAC 0,1A - 12A
 ---
-
-Modelo: Nível Digitais 
-Tipo: Monofásico
-Variações: 230VAC 0,1A - 12A
-
-
 
 ## Características:
 

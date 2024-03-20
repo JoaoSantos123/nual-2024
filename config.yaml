@@ -16,7 +16,9 @@ params:
     - "images/digi_water.png"
     - "images/hero-bg.jpg"
 
-  logo: "arrow-up.png"
+  # config.toml
+  logo: "images/nual_logo.png"
+
 
   favicons:
     themeColor: #94fa69
@@ -39,21 +41,17 @@ params:
 menus:
   main:
     - name: "Home"
-      url: "/#hero"
+      url: "/"
       weight: 1
-
-    - name: "Sobre nós"
-      url: "/#"
-      weight: 2
 
     - name: "Produtos"
       url: "/blog"
-      weight: 3
+      weight: 2
 
   buttons:
     - name: "Contacte-nos"
-      url: "/#"
-      weight: 5
+      url: "/contact"
+      weight: 3
       pre: "btn btn-primary text-light"
 
   footer:
@@ -62,11 +60,11 @@ menus:
       weight: 1
 
     - name: "Sobre nós"
-      url: "/#"
+      url: "/contact"
       weight: 2
 
     - name: "Produtos"
-      url: "/blog"
+      url: "/produtos"
       weight: 3
 
 taxonomies:

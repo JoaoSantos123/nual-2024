@@ -3,7 +3,7 @@ title: NSM01
 date: 2019-03-10
 description: Monitorização Digital de Eletrobomba.
 tags: ["Monofásico","Nível Sondas"]
-thumbnail: images/water-heater.png
+thumbnail: images/digi_water_brev.png
 table:
   - title: Modelo
     description: Nível Sondas

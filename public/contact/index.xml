@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact Mee on NUAL</title>
+    <title>Contactos da NUAL on NUAL</title>
     <link>http://localhost:1313/contact/</link>
-    <description>Recent content in Contact Mee on NUAL</description>
+    <description>Recent content in Contactos da NUAL on NUAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-PT</language>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

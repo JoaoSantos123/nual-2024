@@ -8,7 +8,7 @@ content:
 
   buttonPrimary:
     label: "Entre em contacto"
-    url: "#"
+    url: "/contact"
 
   # buttonSecondary:
   #   label: "Encomenda já"

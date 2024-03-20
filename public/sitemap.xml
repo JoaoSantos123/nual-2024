@@ -6,6 +6,9 @@
   </url><url>
     <loc>http://localhost:1313/homepage/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/produtos/digiwater_dwm12/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,8 +53,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/trif%C3%A1sico/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url>

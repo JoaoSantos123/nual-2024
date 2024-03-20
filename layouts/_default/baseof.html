@@ -1,9 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-  {{ partial "head/head.html" . }}
-  <body>
-    {{- partial "shared/header.html" . -}}
-    {{- block "main" . -}}{{- end -}}
-    {{- partial "shared/footer.html" . -}}
-  </body>
+<head>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+</head>
+<body>
+    <header>
+        <!-- Header content -->
+        {{ partial "head/head.html" . }}
+        {{- partial "shared/header.html" . -}}
+    </header>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+        <!-- Footer content -->
+        {{- partial "shared/footer.html" . -}}
+    </footer>
+</body>
 </html>

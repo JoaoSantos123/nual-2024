@@ -3,7 +3,7 @@ title:  DIGIWATER DWT12A
 date: 2019-03-10
 description: Monitorização Digital de Eletrobomba.
 tags: ["Trifásico","Nível Digitais"]
-thumbnail: images/water-heater.png
+thumbnail: images/digi_water_brev.png
 table:
   - title: Modelo
     description: Nível Digitais 

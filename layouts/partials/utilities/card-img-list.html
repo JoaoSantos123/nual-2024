@@ -1,0 +1,5 @@
+<!-- utilities/card-img-top.html -->
+{{ with resources.Get . }}
+ {{ $resized := .Resize "300x400" }} <!-- Adjust dimensions as needed -->
+ <img class="" src="{{ $resized.RelPermalink }}" alt="{{ .Title }}" width="{{ $resized.Width }}" height="{{ $resized.Height }}">
+{{ end }}

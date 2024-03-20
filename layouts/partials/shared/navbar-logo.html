@@ -1,0 +1,6 @@
+<!-- layouts/partials/navbar-logo.html -->
+<a href="{{ .Site.BaseURL }}" class="navbar-brand">
+    {{ $asset := resources.Get .Site.Params.logo }}
+    {{ $img := $asset.Fit "1000x1000 webp" }} <!-- Increase dimensions here -->
+    <img style="width: 200px; height: 200px; object-fit: contain; transform: scale(2.2);" src="{{ $img.RelPermalink }}" alt="site-logo" />
+</a>
