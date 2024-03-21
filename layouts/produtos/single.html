@@ -1,0 +1,37 @@
+{{ define "main" }}
+<section class="section blog-single py-5">
+  <div class="container">
+    <div class="row justify-content-center pb-5">
+      <div class="col-12">
+        {{ with .Title }}
+        <h2 class="display-1 fw-bold text-center text-primary pb-3">{{ . }}</h2>
+        {{ end }}
+        <!-- Iterate over each item in the table and create a new row for each -->
+        <!-- Single row for displaying all items in .Params.table -->
+        <div class="row justify-content-center pb-5">
+          {{ range .Params.table }}
+          <div class="col-md-3">
+            <div class="case-details-info-item">
+              <h5>{{ .title }}</h5>
+              <p>{{ .description }}</p>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        <div class="row">
+          <div class="col-md-8">
+            {{ .Content }}
+          </div>
+          <div class="col-md-4">
+                      <!-- Display the thumbnail image centered below the table -->
+          <div class="image-gallery justify-content-center pb-5" style="display: flex; justify-content: center; align-items: center;">
+            <div class="gallery-item" style="flex: 1;">
+               {{ with .Params.thumbnail }}
+                 {{ partial "utilities/image-fluid.html" . }}
+               {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+</section>
+{{ end }}

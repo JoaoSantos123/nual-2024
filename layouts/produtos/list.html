@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section class="section product-list py-5">
+  <div class="container" >
+    <div class="row justify-content-center pb-5" >
+      <div class="col-12 col-xl-6" >
+         {{ with .Title }}
+        <h2 class="fs-1 fw-bold text-center text-primary pb-3">{{ . }}</h2>
+        {{ end }}
+      </div>
+      <div class="container">
+        {{ range .Pages.GroupByParam "category" }}
+        <div class="row justify-content-start pb-5">
+          <div class="col-12 col-xl-6">
+            <h2 class="fs-1 fw-bold text-primary "> Modelos {{ .Key }}</h2>
+          </div>
+        </div>
+        <div class="row g-4 pb-5">
+          {{ range .Pages }}
+          <div class="col-12 col-md-6 col-lg-4">
+            <a class="card text-decoration-none h-100" href="{{ .Permalink }}" style="border: none;">
+              <div class="aspect-ratio-1-5">
+                {{ with .Params.thumbnail }}
+                {{ partial "utilities/card-img-list" . }}
+                {{ end }}
+              </div>
+              <div class="card-body">
+                <h5 class="card-title fw-semibold">{{ .Title }}</h5>
+                <ul class="card-text text-black-61">
+                  {{ range .Params.table }}
+                  <li><strong>{{ .title }}:</strong> {{ .description }}</li>
+                  {{ end }}
+                </ul>
+              </div>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+</section>
+{{ end }}

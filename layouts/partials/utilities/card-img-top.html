@@ -1,4 +1,4 @@
 {{ with resources.Get . }}
- {{ $resized := .Resize "500x800" }} <!-- Adjust dimensions as needed -->
+ {{ $resized := .Resize "2500x5000" }} <!-- Adjust dimensions as needed -->
  <img class="" style="min-width: 0; width: 80%; height: auto; object-fit: cover;" src="{{ $resized.RelPermalink }}" alt="{{ .Title }}" width="{{ $resized.Width }}" height="{{ $resized.Height }}">
 {{ end }}

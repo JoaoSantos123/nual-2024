@@ -2,7 +2,6 @@
 title:  DIGIWATER DWM12
 date: 2019-03-10
 description: Nível Digitais 
-description1: Teste 
 tags: ["Monofásico","Nível Digitais"]
 thumbnail: images/digi_water1.png
 thumbnail1: images/digi_water2.png
@@ -13,9 +12,10 @@ table:
     description: Monofásico
   - title: Variações
     description: 230VAC 0,1A - 12A
+category: "Nível Digitais"
 ---
 
-## Características:
+## **Características**:
 
 * Caixa de plástico ABS **250x200x140mm** com tampa transparente
 * Disjuntor **2P C16 EFAPEL**
@@ -27,9 +27,7 @@ table:
 * Possibilidade de conexão de módulo WIFI TPUMP-W (opcional)
 * Sinalização do estado de funcionamento da bomba
 
-<br/>
-
-## Proteções:
+## **Proteções**:
 
 * Curto-circuito
 * Sobrecarga
@@ -39,9 +37,7 @@ table:
 * Consumo anormal
 * Sobretensão
 
-<br/>
-
-## Conexões:
+## **Conexões**:
 
 * Alimentação de entrada: N/L
 * Condensador (opcional): Cu/C
@@ -49,9 +45,8 @@ table:
 * Comando de segurança: S1/S2 (fazer shunt caso não seja utilizado)
 * Pressostato/bóia: S3/S4
 
-<br/>
 
-## Descrição de Funcionamento:
+## **Descrição de Funcionamento**:
 
 Após realizar todas as ligações ao quadro e com o disjuntor ligado, o relé mostrará "OFF" no visor. Com o comando de segurança S1-S2 fechado e o seletor na posição "MANUAL", o relé mostrará "HAND" e a bomba iniciará o funcionamento, ignorando o comando S3-S4.
 

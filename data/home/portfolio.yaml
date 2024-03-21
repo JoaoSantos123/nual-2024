@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: images/digi_water1.png
+  - image: images/digi_water.png
     pretitle: Os Nossos Produtos
     title: DIGIWATER DWM12
     text: Caixa de plástico ABS 250x200x140mm com tampa transparente, Disjuntor 2P C16 EFAPEL, Contactor Soflight 3P 230Vac, Relé digital TPM7 Toscano, Seletor Manual-0-Automático com retorno na posição "Manual", Opção de calibração automática.
