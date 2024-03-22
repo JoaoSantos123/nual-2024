@@ -1,4 +1,4 @@
-baseURL: "https://www.example.com/"
+baseURL: "http://localhost:1313/"
 theme: "up-business-theme"
 languageCode: "pt-PT"
 
@@ -14,7 +14,7 @@ params:
     aumentar a eficiência e garantir a segurança dos seus sistemas de bombagem.
   images: 
     - "images/digi_water.png"
-    - "images/hero-bg.jpg"
+
 
   # config.toml
   logo: "images/nual_logo.png"

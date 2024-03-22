@@ -9,7 +9,8 @@ content:
       
     buttons: 
       - label: Mais Detalhes
-        url: "/produtos/digiwater_dwm12/"
+        #url: "/produtos/digiwater_dwm12/"
+        url: "/nual-2024//produtos/digiwater_dwm12/"
 
   # - image: "images/portfolio-ecommerce.png"
   #   pretitle: "Portfolio Service"
