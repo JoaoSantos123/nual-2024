@@ -27,6 +27,7 @@ category: "Nível Digitais"
 * Possibilidade de conexão de módulo WIFI TPUMP-W (opcional)
 * Sinalização do estado de funcionamento da bomba
 
+
 ## **Proteções**:
 
 * Curto-circuito

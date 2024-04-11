@@ -3,14 +3,6 @@ title: Contactos da NUAL
 date: 2019-03-10
 ---
 
-A NUAL está empenhada em prestar um excelente serviço ao cliente. Não hesite em contactar-nos utilizando as informações abaixo:
-
-- **Email:** info@nual.pt
-- **Phone:** +351 xxx xxx xxx
-- **Address:** Santo Tirso, Porto, Portugal
-
-
-
 # Somos o seu Parceiro Estratégico
 
   Fundada em 2024, a NUAL nasceu da necessidade de revolucionar o mercado de Sistemas para gestão de 
@@ -32,4 +24,14 @@ A NUAL está empenhada em prestar um excelente serviço ao cliente. Não hesite 
 
   Entre em contacto connosco hoje mesmo e saiba como podemos 
   ajudá-lo a alcançar os seus objectivos.
+
+# Contactos
+
+A NUAL está empenhada em prestar um excelente serviço ao cliente. Não hesite em contactar-nos utilizando as informações abaixo:
+
+- **Email:** info@nual.pt
+- **Phone:** +351 xxx xxx xxx
+- **Address:** Santo Tirso, Porto, Portugal
+
+
 

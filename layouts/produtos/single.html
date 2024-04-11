@@ -26,7 +26,7 @@
                       <!-- Display the thumbnail image centered below the table -->
           <div class="image-gallery justify-content-center pb-5" style="display: flex; justify-content: center; align-items: center;">
             <div class="gallery-item" style="flex: 1;">
-               {{ with .Params.thumbnail }}
+               {{ with .Params.thumbnail1 }}
                  {{ partial "utilities/image-fluid.html" . }}
                {{ end }}
             </div>
